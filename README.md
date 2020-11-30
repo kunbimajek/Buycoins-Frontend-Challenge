@@ -1,3 +1,3 @@
 # Buycoins-Frontend-Challenge
 
-Linked to https://buycoins-frontend-coding-challenge.netlify.app/
+Link to https://buycoins-frontend-coding-challenge.netlify.app/
